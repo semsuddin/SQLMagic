@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="BeginTransaction method" Url="html/7cf1020d-f561-cf29-1b36-e80a59c00ed5.htm" />
+  <HelpKINode Title="ConnectionTimeout field" Url="html/ef43fe38-a083-9f65-c5a5-01745afcd25e.htm" />
+  <HelpKINode Title="Copy(Of T) method" Url="html/0f4491cc-f09c-ef4d-b49a-5e43415d8c37.htm" />
+  <HelpKINode Title="Copy&lt;T&gt; method" Url="html/0f4491cc-f09c-ef4d-b49a-5e43415d8c37.htm" />
+  <HelpKINode Title="CreateConnection method" Url="html/e91d7297-2846-ecda-e2a0-5b1bac65aa8e.htm" />
+  <HelpKINode Title="Dispose method" Url="html/345355f2-98f3-2b3d-6f7f-3abd80c8492f.htm" />
+  <HelpKINode Title="Empty property" Url="html/0915f23c-b157-1eae-3caf-d6f6ec9a4cbc.htm" />
+  <HelpKINode Title="EndTransaction method" Url="html/14c78692-4071-b660-b6bb-3f0665171167.htm" />
+  <HelpKINode Title="Exception property" Url="html/043797d9-b582-c77b-7657-ad6caac3d459.htm" />
+  <HelpKINode Title="Execute method" Url="html/0f4f289c-6d13-6f30-f24d-8d40b729d614.htm" />
+  <HelpKINode Title="ExecutionTimeout field" Url="html/10b4ec69-be25-cd8d-ac04-441447a5cacd.htm" />
+  <HelpKINode Title="Extensions class">
+    <HelpKINode Title="Extensions Class" Url="html/9eef629a-43bb-a8a8-3a30-96c7eb20b0db.htm" />
+    <HelpKINode Title="methods" Url="html/8e812864-cc2f-1fa7-4aad-e8b698055f9f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Extensions.Copy(Of T) method" Url="html/0f4491cc-f09c-ef4d-b49a-5e43415d8c37.htm" />
+  <HelpKINode Title="Extensions.Copy&lt;T&gt; method" Url="html/0f4491cc-f09c-ef4d-b49a-5e43415d8c37.htm" />
+  <HelpKINode Title="Extensions.ToDataSet method" Url="html/7544f868-b05f-da65-a263-407bbfa515d5.htm" />
+  <HelpKINode Title="Extensions.ToEnumerable method" Url="html/9e3379ff-21df-0404-1050-b75a2fd05d1b.htm" />
+  <HelpKINode Title="Extensions.ToFormattedString method" Url="html/4a9d6b70-1533-c5c2-1f2f-4509d6cdddff.htm" />
+  <HelpKINode Title="Extensions.ToQueue(Of T) method" Url="html/88711f6e-eb52-bc27-d214-d54f5661b7c2.htm" />
+  <HelpKINode Title="Extensions.ToQueue&lt;T&gt; method" Url="html/88711f6e-eb52-bc27-d214-d54f5661b7c2.htm" />
+  <HelpKINode Title="Extensions.ToReadOnlyCollection(Of T) method" Url="html/156afe37-dbfe-76ce-84fa-a94f0676b00e.htm" />
+  <HelpKINode Title="Extensions.ToReadOnlyCollection&lt;T&gt; method" Url="html/156afe37-dbfe-76ce-84fa-a94f0676b00e.htm" />
+  <HelpKINode Title="Extensions.ToTable method" Url="html/56016add-11f5-bb72-4bf8-5c8e8f6dc795.htm" />
+  <HelpKINode Title="Extensions.ToTables method" Url="html/dfd0d299-cd38-aab6-2351-d972c2ff9d7f.htm" />
+  <HelpKINode Title="Extensions.ToXml method" Url="html/aa85e853-60c1-8589-5768-2f144c7778ae.htm" />
+  <HelpKINode Title="Finalize method" Url="html/9a9a9472-8642-53b4-cb42-7c6ec2589431.htm" />
+  <HelpKINode Title="Open method" Url="html/ed646380-60b3-34b1-4f35-a87bceeaf5cf.htm" />
+  <HelpKINode Title="Parameters property" Url="html/37b77c3a-07bf-03c3-be6d-37de33d8bf0e.htm" />
+  <HelpKINode Title="Results property" Url="html/64df2cee-7646-a4e7-21c4-d0e84ce7bc6a.htm" />
+  <HelpKINode Title="Sql class">
+    <HelpKINode Title="Sql Class" Url="html/785fde05-efb5-5f29-4743-585faed60fdc.htm" />
+    <HelpKINode Title="constructor" Url="html/8db3be82-dcfc-5f96-ac69-1729207ec650.htm" />
+    <HelpKINode Title="fields" Url="html/43e29122-2f85-b375-1332-3d2cf9e3dfe6.htm" />
+    <HelpKINode Title="methods" Url="html/cd2e3155-281d-3cc5-78b6-c8e86d857be1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Sql property" Url="html/eecb1675-8649-26c0-7dfb-d34f06058406.htm" />
+  <HelpKINode Title="Sql.BeginTransaction method" Url="html/7cf1020d-f561-cf29-1b36-e80a59c00ed5.htm" />
+  <HelpKINode Title="Sql.ConnectionTimeout field" Url="html/ef43fe38-a083-9f65-c5a5-01745afcd25e.htm" />
+  <HelpKINode Title="Sql.CreateConnection method" Url="html/e91d7297-2846-ecda-e2a0-5b1bac65aa8e.htm" />
+  <HelpKINode Title="Sql.Dispose method" Url="html/345355f2-98f3-2b3d-6f7f-3abd80c8492f.htm" />
+  <HelpKINode Title="Sql.EndTransaction method" Url="html/14c78692-4071-b660-b6bb-3f0665171167.htm" />
+  <HelpKINode Title="Sql.Execute method" Url="html/0f4f289c-6d13-6f30-f24d-8d40b729d614.htm" />
+  <HelpKINode Title="Sql.ExecutionTimeout field" Url="html/10b4ec69-be25-cd8d-ac04-441447a5cacd.htm" />
+  <HelpKINode Title="Sql.Finalize method" Url="html/9a9a9472-8642-53b4-cb42-7c6ec2589431.htm" />
+  <HelpKINode Title="Sql.Open method" Url="html/ed646380-60b3-34b1-4f35-a87bceeaf5cf.htm" />
+  <HelpKINode Title="Sql.Sql constructor" Url="html/8db3be82-dcfc-5f96-ac69-1729207ec650.htm" />
+  <HelpKINode Title="Sql.Statement structure" Url="html/5b1035c4-c2f8-e7be-52e9-9863f90b20ef.htm" />
+  <HelpKINode Title="Sql.Statement.Empty property" Url="html/0915f23c-b157-1eae-3caf-d6f6ec9a4cbc.htm" />
+  <HelpKINode Title="Sql.Statement.Parameters property" Url="html/37b77c3a-07bf-03c3-be6d-37de33d8bf0e.htm" />
+  <HelpKINode Title="Sql.Statement.Sql property" Url="html/eecb1675-8649-26c0-7dfb-d34f06058406.htm" />
+  <HelpKINode Title="Sql.Statement.Type property" Url="html/253d4a92-8d6b-bfce-63d4-d035517d5af2.htm" />
+  <HelpKINode Title="Sql.TryCreateConnection method" Url="html/0f2e9cf1-56f6-f1ca-ba45-0799f4e12ad3.htm" />
+  <HelpKINode Title="Sql.TryExecute method" Url="html/b1175af7-0cec-c293-213e-923f229de986.htm" />
+  <HelpKINode Title="Sql.TryOpen method" Url="html/50eb65ac-2fd9-52d5-1f8a-325aedfc3535.htm" />
+  <HelpKINode Title="SqlMagic namespace" Url="html/62657dc0-32be-9ca8-6c4d-59b59c7b98b9.htm" />
+  <HelpKINode Title="SqlMagic.Extensions class" Url="html/9eef629a-43bb-a8a8-3a30-96c7eb20b0db.htm" />
+  <HelpKINode Title="SqlMagic.Sql class" Url="html/785fde05-efb5-5f29-4743-585faed60fdc.htm" />
+  <HelpKINode Title="SqlMagic.Sql.Statement structure" Url="html/5b1035c4-c2f8-e7be-52e9-9863f90b20ef.htm" />
+  <HelpKINode Title="SqlMagic.SqlResult class" Url="html/a0b8c88c-4b64-e8b8-f276-b813f73103d9.htm" />
+  <HelpKINode Title="SqlMagic.SqlResultBase class" Url="html/09a5ab5f-272d-8d7e-1caa-b7399f5743a5.htm" />
+  <HelpKINode Title="SqlMagic.SqlResultWithDataSet class" Url="html/a56ca30a-cc9a-55e1-2bff-b621c0435a06.htm" />
+  <HelpKINode Title="SqlMagic.SqlResultWithValue(Of T) class" Url="html/cac78f63-424e-5e22-3de6-00eb77aa33d6.htm" />
+  <HelpKINode Title="SqlMagic.SqlResultWithValue&lt;T&gt; class" Url="html/cac78f63-424e-5e22-3de6-00eb77aa33d6.htm" />
+  <HelpKINode Title="SqlResult class">
+    <HelpKINode Title="SqlResult Class" Url="html/a0b8c88c-4b64-e8b8-f276-b813f73103d9.htm" />
+    <HelpKINode Title="constructor" Url="html/aa2d3318-b8df-b97a-2a9c-dea14cbfc5be.htm" />
+    <HelpKINode Title="methods" Url="html/c12eb788-9f7f-3722-a2d6-ff8ddbd02e46.htm" />
+    <HelpKINode Title="properties" Url="html/281a3ec1-5808-d9c1-0e4b-2721b9008127.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlResult.SqlResult constructor" Url="html/aa2d3318-b8df-b97a-2a9c-dea14cbfc5be.htm" />
+  <HelpKINode Title="SqlResultBase class">
+    <HelpKINode Title="SqlResultBase Class" Url="html/09a5ab5f-272d-8d7e-1caa-b7399f5743a5.htm" />
+    <HelpKINode Title="constructor" Url="html/c4846284-303d-e1fc-f147-52e9ee600606.htm" />
+    <HelpKINode Title="methods" Url="html/5921baca-347c-5c64-68ff-d5c8b7000192.htm" />
+    <HelpKINode Title="properties" Url="html/92f5d004-561d-b0a0-861c-2eb657f8e602.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlResultBase.Exception property" Url="html/043797d9-b582-c77b-7657-ad6caac3d459.htm" />
+  <HelpKINode Title="SqlResultBase.SqlResultBase constructor" Url="html/c4846284-303d-e1fc-f147-52e9ee600606.htm" />
+  <HelpKINode Title="SqlResultBase.Statistics property" Url="html/09c21ae4-c922-f90f-c6ce-416d348175a2.htm" />
+  <HelpKINode Title="SqlResultBase.Success property" Url="html/df6bd012-6cbc-3a06-0fdf-7ecbbd83bab3.htm" />
+  <HelpKINode Title="SqlResultWithDataSet class">
+    <HelpKINode Title="SqlResultWithDataSet Class" Url="html/a56ca30a-cc9a-55e1-2bff-b621c0435a06.htm" />
+    <HelpKINode Title="constructor" Url="html/cfdcae83-4826-00ba-f349-b3398bc71a3a.htm" />
+    <HelpKINode Title="methods" Url="html/f381d94a-a5c3-cf5b-74a2-0b085f67da66.htm" />
+    <HelpKINode Title="properties" Url="html/0139ff35-c1f2-c355-e700-0c8473ea586c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlResultWithDataSet.Results property" Url="html/64df2cee-7646-a4e7-21c4-d0e84ce7bc6a.htm" />
+  <HelpKINode Title="SqlResultWithDataSet.SqlResultWithDataSet constructor" Url="html/cfdcae83-4826-00ba-f349-b3398bc71a3a.htm" />
+  <HelpKINode Title="SqlResultWithDataSet.Success property" Url="html/0ce57619-2397-bce8-2f74-cadf8c60c287.htm" />
+  <HelpKINode Title="SqlResultWithValue(Of T) class">
+    <HelpKINode Title="SqlResultWithValue(T) Class" Url="html/cac78f63-424e-5e22-3de6-00eb77aa33d6.htm" />
+    <HelpKINode Title="constructor" Url="html/2f6511d4-7d26-68f7-bb34-60254cb46514.htm" />
+    <HelpKINode Title="methods" Url="html/7f705c3c-76ec-6216-04e4-5092347974df.htm" />
+    <HelpKINode Title="properties" Url="html/fe43fc1b-6d9f-e21e-9c5f-48678a7e1f63.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlResultWithValue(Of T).SqlResultWithValue constructor" Url="html/2f6511d4-7d26-68f7-bb34-60254cb46514.htm" />
+  <HelpKINode Title="SqlResultWithValue(Of T).Value property" Url="html/10d3924d-bfa7-0d4c-655d-80b970c880b6.htm" />
+  <HelpKINode Title="SqlResultWithValue&lt;T&gt; class">
+    <HelpKINode Title="SqlResultWithValue(T) Class" Url="html/cac78f63-424e-5e22-3de6-00eb77aa33d6.htm" />
+    <HelpKINode Title="constructor" Url="html/2f6511d4-7d26-68f7-bb34-60254cb46514.htm" />
+    <HelpKINode Title="methods" Url="html/7f705c3c-76ec-6216-04e4-5092347974df.htm" />
+    <HelpKINode Title="properties" Url="html/fe43fc1b-6d9f-e21e-9c5f-48678a7e1f63.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlResultWithValue&lt;T&gt;.SqlResultWithValue constructor" Url="html/2f6511d4-7d26-68f7-bb34-60254cb46514.htm" />
+  <HelpKINode Title="SqlResultWithValue&lt;T&gt;.Value property" Url="html/10d3924d-bfa7-0d4c-655d-80b970c880b6.htm" />
+  <HelpKINode Title="Statement structure">
+    <HelpKINode Title="methods" Url="html/2cdee007-0239-e18a-aa22-1dd916a344c6.htm" />
+    <HelpKINode Title="properties" Url="html/05426d2d-0e95-66a3-87fc-7a95cb694e3a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Statistics property" Url="html/09c21ae4-c922-f90f-c6ce-416d348175a2.htm" />
+  <HelpKINode Title="Success property">
+    <HelpKINode Title="SqlResultBase.Success Property " Url="html/df6bd012-6cbc-3a06-0fdf-7ecbbd83bab3.htm" />
+    <HelpKINode Title="SqlResultWithDataSet.Success Property " Url="html/0ce57619-2397-bce8-2f74-cadf8c60c287.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToDataSet method" Url="html/7544f868-b05f-da65-a263-407bbfa515d5.htm" />
+  <HelpKINode Title="ToEnumerable method" Url="html/9e3379ff-21df-0404-1050-b75a2fd05d1b.htm" />
+  <HelpKINode Title="ToFormattedString method" Url="html/4a9d6b70-1533-c5c2-1f2f-4509d6cdddff.htm" />
+  <HelpKINode Title="ToQueue(Of T) method" Url="html/88711f6e-eb52-bc27-d214-d54f5661b7c2.htm" />
+  <HelpKINode Title="ToQueue&lt;T&gt; method" Url="html/88711f6e-eb52-bc27-d214-d54f5661b7c2.htm" />
+  <HelpKINode Title="ToReadOnlyCollection(Of T) method" Url="html/156afe37-dbfe-76ce-84fa-a94f0676b00e.htm" />
+  <HelpKINode Title="ToReadOnlyCollection&lt;T&gt; method" Url="html/156afe37-dbfe-76ce-84fa-a94f0676b00e.htm" />
+  <HelpKINode Title="ToTable method" Url="html/56016add-11f5-bb72-4bf8-5c8e8f6dc795.htm" />
+  <HelpKINode Title="ToTables method" Url="html/dfd0d299-cd38-aab6-2351-d972c2ff9d7f.htm" />
+  <HelpKINode Title="ToXml method" Url="html/aa85e853-60c1-8589-5768-2f144c7778ae.htm" />
+  <HelpKINode Title="TryCreateConnection method" Url="html/0f2e9cf1-56f6-f1ca-ba45-0799f4e12ad3.htm" />
+  <HelpKINode Title="TryExecute method" Url="html/b1175af7-0cec-c293-213e-923f229de986.htm" />
+  <HelpKINode Title="TryOpen method" Url="html/50eb65ac-2fd9-52d5-1f8a-325aedfc3535.htm" />
+  <HelpKINode Title="Type property" Url="html/253d4a92-8d6b-bfce-63d4-d035517d5af2.htm" />
+  <HelpKINode Title="Value property" Url="html/10d3924d-bfa7-0d4c-655d-80b970c880b6.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/d48a6dcd-f4ec-4e87-ae93-9cae9c1e9c77.htm" />
+    <HelpKINode Title="history" Url="html/73a20a8b-7e05-4a97-989d-84cca41baa82.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Welcome" Url="html/c90f2320-c6a1-4093-a93b-b38d9626feef.htm" />
+</HelpKI>

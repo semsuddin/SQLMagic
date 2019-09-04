@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLMagic", "SQLMagic\SQLMagic.csproj", "{3E2AB93C-5BD4-48FF-99AF-1E2E62DD888D}"
 EndProject
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "Docs", "Docs\Docs.shfbproj", "{EE17D6CC-E508-4AA3-9B30-2B8EF997BA54}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3E2AB93C-5BD4-48FF-99AF-1E2E62DD888D} = {3E2AB93C-5BD4-48FF-99AF-1E2E62DD888D}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +20,10 @@ Global
 		{3E2AB93C-5BD4-48FF-99AF-1E2E62DD888D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E2AB93C-5BD4-48FF-99AF-1E2E62DD888D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E2AB93C-5BD4-48FF-99AF-1E2E62DD888D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE17D6CC-E508-4AA3-9B30-2B8EF997BA54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE17D6CC-E508-4AA3-9B30-2B8EF997BA54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE17D6CC-E508-4AA3-9B30-2B8EF997BA54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE17D6CC-E508-4AA3-9B30-2B8EF997BA54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

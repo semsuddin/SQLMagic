@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>3e2ab93c-5bd4-48ff-99af-1e2e62dd888d</ProjectGuid>
+    <ProjectGuid>{3E2AB93C-5BD4-48FF-99AF-1E2E62DD888D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SQLMagic</RootNamespace>
@@ -21,6 +21,8 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -29,26 +31,37 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <DocumentationFile>Docs\SQLMagicDocs.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System"/>
-    
-    <Reference Include="System.Core"/>
-    <Reference Include="System.Xml.Linq"/>
-    <Reference Include="System.Data.DataSetExtensions"/>
-    
-    
-    <Reference Include="Microsoft.CSharp"/>
-    
-    <Reference Include="System.Data"/>
-    
-    <Reference Include="System.Net.Http"/>
-    
-    <Reference Include="System.Xml"/>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Extensions\Extensions.cs" />
+    <Compile Include="Items\Results\SqlResult.cs" />
+    <Compile Include="Items\Results\SqlResultBase.cs" />
+    <Compile Include="Items\Results\SqlResultWithDataSet.cs" />
+    <Compile Include="Items\Results\SqlResultWithValue.cs" />
+    <Compile Include="Sql\Asynchronous\Execute\SqlExecute.cs" />
+    <Compile Include="Sql\Asynchronous\Open\SqlOpen.cs" />
+    <Compile Include="Sql\Asynchronous\Transactions\SqlTransactions.cs" />
+    <Compile Include="Sql\Constructors\SqlConstructors.cs" />
+    <Compile Include="Sql\Events\SqlEvents.cs" />
+    <Compile Include="Sql\Observer\SqlObserver.cs" />
+    <Compile Include="Sql\SqlMain.cs" />
+    <Compile Include="Sql\Synchronous\Execute\SqlExecute.cs" />
+    <Compile Include="Sql\Synchronous\Open\SqlOpen.cs" />
+    <Compile Include="Sql\Synchronous\Transactions\SqlTransactions.cs" />
+    <Compile Include="Sql\Utilities\SqlUtilities.cs" />
+    <Compile Include="Sql\Variables\SqlVariables.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
- </Project>
+</Project>

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Title="Welcome to the [TODO: Add project name]" Url="html/c90f2320-c6a1-4093-a93b-b38d9626feef.htm" />
+  <HelpTOCNode Id="3ca1bc8b-ffe8-4540-8654-f46fcd2a2edf" Title="Version History" Url="html/73a20a8b-7e05-4a97-989d-84cca41baa82.htm">
+    <HelpTOCNode Title="Version 1.0.0.0" Url="html/d48a6dcd-f4ec-4e87-ae93-9cae9c1e9c77.htm" />
+  </HelpTOCNode>
+  <HelpTOCNode Id="f0531ab1-67aa-474c-8a34-ac05dce5e31a" Title="SqlMagic" Url="html/62657dc0-32be-9ca8-6c4d-59b59c7b98b9.htm">
+    <HelpTOCNode Id="271c4354-b09e-4db1-b9dd-e9bed1341375" Title="Extensions Class" Url="html/9eef629a-43bb-a8a8-3a30-96c7eb20b0db.htm">
+      <HelpTOCNode Id="2c001516-6ba9-46b0-b15b-7508e46f284e" Title="Extensions Methods" Url="html/8e812864-cc2f-1fa7-4aad-e8b698055f9f.htm">
+        <HelpTOCNode Title="Copy(T) Method " Url="html/0f4491cc-f09c-ef4d-b49a-5e43415d8c37.htm" />
+        <HelpTOCNode Id="136c3297-b5d5-4ad8-86f1-452b8c7d7cbd" Title="ToDataSet Method " Url="html/7544f868-b05f-da65-a263-407bbfa515d5.htm">
+          <HelpTOCNode Title="ToDataSet Method (SqlDataReader)" Url="html/c812b59b-d446-4465-ea75-c48c8fefaf9a.htm" />
+          <HelpTOCNode Title="ToDataSet Method (SqlDataReader, Boolean)" Url="html/909d9421-ab52-b775-be51-153fe569797f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToEnumerable Method " Url="html/9e3379ff-21df-0404-1050-b75a2fd05d1b.htm" />
+        <HelpTOCNode Title="ToFormattedString Method " Url="html/4a9d6b70-1533-c5c2-1f2f-4509d6cdddff.htm" />
+        <HelpTOCNode Title="ToQueue(T) Method " Url="html/88711f6e-eb52-bc27-d214-d54f5661b7c2.htm" />
+        <HelpTOCNode Title="ToReadOnlyCollection(T) Method " Url="html/156afe37-dbfe-76ce-84fa-a94f0676b00e.htm" />
+        <HelpTOCNode Id="497589f4-409c-4de6-b294-d92540dd08f2" Title="ToTable Method " Url="html/56016add-11f5-bb72-4bf8-5c8e8f6dc795.htm">
+          <HelpTOCNode Title="ToTable Method (SqlDataReader)" Url="html/dff69174-0f73-0bd4-bb83-b5dab3e9e140.htm" />
+          <HelpTOCNode Title="ToTable Method (SqlDataReader, Boolean)" Url="html/ea91af68-eeb9-35e8-6805-9680b467778d.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="67f30a39-a73e-457e-b43a-9f8280885c6c" Title="ToTables Method " Url="html/dfd0d299-cd38-aab6-2351-d972c2ff9d7f.htm">
+          <HelpTOCNode Title="ToTables Method (SqlDataReader)" Url="html/854d6d6a-66e6-04ca-139c-eaf1c7411c98.htm" />
+          <HelpTOCNode Title="ToTables Method (SqlDataReader, Boolean)" Url="html/65174884-902c-1476-ca69-64534756e1ac.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ToXml Method " Url="html/aa85e853-60c1-8589-5768-2f144c7778ae.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="9af1c348-ccb0-47b7-b802-798b29cd54a4" Title="Sql Class" Url="html/785fde05-efb5-5f29-4743-585faed60fdc.htm">
+      <HelpTOCNode Id="2de04bfb-4049-4d61-9177-2a73fe1745c0" Title="Sql Constructor " Url="html/8db3be82-dcfc-5f96-ac69-1729207ec650.htm">
+        <HelpTOCNode Title="Sql Constructor (String)" Url="html/91b5a924-7725-fc9b-2ad7-74dbac3ee57f.htm" />
+        <HelpTOCNode Title="Sql Constructor (String, Boolean)" Url="html/9397a708-a257-2077-bd7d-44a714539367.htm" />
+        <HelpTOCNode Title="Sql Constructor (String, Int32)" Url="html/48f80ce5-1902-1931-e238-0eeb76c2ae1d.htm" />
+        <HelpTOCNode Title="Sql Constructor (String, Int32, Boolean)" Url="html/00d6883a-ac2f-0b6c-7ab1-836cf233f2b6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="4a4e8527-8e01-4cc7-a057-fcf2dca956b5" Title="Sql Methods" Url="html/cd2e3155-281d-3cc5-78b6-c8e86d857be1.htm">
+        <HelpTOCNode Id="528d994f-0265-4097-96c3-000f319077ef" Title="BeginTransaction Method " Url="html/7cf1020d-f561-cf29-1b36-e80a59c00ed5.htm">
+          <HelpTOCNode Title="BeginTransaction Method " Url="html/9b99d8a8-b45f-5854-10da-bebe18edbda1.htm" />
+          <HelpTOCNode Title="BeginTransaction Method (IsolationLevel)" Url="html/82497d46-2134-677a-6d85-5fe4ce758a94.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="dca600ec-09dc-4aa8-a43b-a0e5de04f0a4" Title="CreateConnection Method " Url="html/e91d7297-2846-ecda-e2a0-5b1bac65aa8e.htm">
+          <HelpTOCNode Title="CreateConnection Method " Url="html/39012367-fbf7-e81e-36e0-512ecec4b623.htm" />
+          <HelpTOCNode Title="CreateConnection Method (Boolean)" Url="html/f2989628-2daa-4b67-7477-dca0eade0f2c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="dd77f3c1-1764-4853-a74d-23e837e23f22" Title="Dispose Method " Url="html/345355f2-98f3-2b3d-6f7f-3abd80c8492f.htm">
+          <HelpTOCNode Title="Dispose Method " Url="html/212bf1cc-ce08-0571-5dd6-a5fa07cf8a1d.htm" />
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/7ec12744-00af-35c1-5d94-09db777f0028.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="63493868-6db6-4be7-b40e-2be5af9dd44c" Title="EndTransaction Method " Url="html/14c78692-4071-b660-b6bb-3f0665171167.htm">
+          <HelpTOCNode Title="EndTransaction Method (SqlTransaction)" Url="html/67941251-36c9-a131-af73-eb0503721e80.htm" />
+          <HelpTOCNode Title="EndTransaction Method (SqlTransaction, Boolean)" Url="html/acdbafbd-f454-9f78-cb45-041b092699ea.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="0949756f-a260-47b1-abff-d3ea92a50184" Title="Execute Method " Url="html/0f4f289c-6d13-6f30-f24d-8d40b729d614.htm">
+          <HelpTOCNode Title="Execute Method (String)" Url="html/948893d2-07be-e46f-c8b1-eb9b34fc0f4d.htm" />
+          <HelpTOCNode Title="Execute(T) Method (String)" Url="html/17e73141-69e9-412a-d195-7f021638e0fd.htm" />
+          <HelpTOCNode Title="Execute Method (Sql.Statement)" Url="html/cd018ad2-7cd0-bb6c-2fdd-30f0f35532b8.htm" />
+          <HelpTOCNode Title="Execute(T) Method (Sql.Statement)" Url="html/b8cece68-3496-598d-2337-483f34bf4428.htm" />
+          <HelpTOCNode Title="Execute Method (String, CommandType)" Url="html/49b3ab02-2177-cee5-5736-0b8d6f52f428.htm" />
+          <HelpTOCNode Title="Execute(T) Method (String, CommandType)" Url="html/aa5fdfda-28be-6dc7-a04d-6ac67b409b2a.htm" />
+          <HelpTOCNode Title="Execute Method (Sql.Statement, SqlConnection)" Url="html/47c6b261-85b0-48b1-142d-532c63c23b03.htm" />
+          <HelpTOCNode Title="Execute(T) Method (Sql.Statement, SqlConnection)" Url="html/3dcf88dd-5ea8-9fe0-da44-a1191d0b4b3f.htm" />
+          <HelpTOCNode Title="Execute Method (String, CommandType, IEnumerable(SqlParameter))" Url="html/2763221b-5559-9b12-f1dc-24d3b3b7512d.htm" />
+          <HelpTOCNode Title="Execute(T) Method (String, CommandType, IEnumerable(SqlParameter))" Url="html/b077b1fc-cb33-8b69-4de0-966c8d57cb3f.htm" />
+          <HelpTOCNode Title="Execute Method (String, CommandType, SqlParameter[])" Url="html/4c48e396-87d8-2bd8-e513-a37a9637cd84.htm" />
+          <HelpTOCNode Title="Execute(T) Method (String, CommandType, SqlParameter[])" Url="html/e6d2cc5d-885d-8450-647c-f8126445e201.htm" />
+          <HelpTOCNode Title="Execute Method (Sql.Statement, SqlConnection, Boolean)" Url="html/2bc8d424-b9d3-0898-7f4c-2c3d71c02d4e.htm" />
+          <HelpTOCNode Title="Execute(T) Method (Sql.Statement, SqlConnection, Boolean)" Url="html/8276128d-ef34-6f2d-14a4-4700e5018414.htm" />
+          <HelpTOCNode Title="Execute Method (Sql.Statement, SqlConnection, Boolean, SqlTransaction)" Url="html/8afc70b7-3374-a890-8089-b1dc6027143c.htm" />
+          <HelpTOCNode Title="Execute(T) Method (Sql.Statement, SqlConnection, Boolean, SqlTransaction)" Url="html/c1a7e63e-2592-a84b-dbb3-20303ed39061.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Finalize Method " Url="html/9a9a9472-8642-53b4-cb42-7c6ec2589431.htm" />
+        <HelpTOCNode Id="f88845f7-f043-4ccd-991b-0323968a0eb4" Title="Open Method " Url="html/ed646380-60b3-34b1-4f35-a87bceeaf5cf.htm">
+          <HelpTOCNode Title="Open Method (String)" Url="html/2251a878-2432-5c97-bf34-5479af47656b.htm" />
+          <HelpTOCNode Title="Open Method (Sql.Statement)" Url="html/031b12c2-9276-d83d-f17c-626f1fe0579a.htm" />
+          <HelpTOCNode Title="Open Method (String, CommandType)" Url="html/a49baff9-bd54-f992-ab03-17c0928449f2.htm" />
+          <HelpTOCNode Title="Open Method (Sql.Statement, SqlConnection)" Url="html/1b486220-b7d6-1644-33cc-7bbfc4104880.htm" />
+          <HelpTOCNode Title="Open Method (String, CommandType, IEnumerable(SqlParameter))" Url="html/fde020d9-d096-2a34-acda-de4550585542.htm" />
+          <HelpTOCNode Title="Open Method (String, CommandType, SqlParameter[])" Url="html/a2a96acc-f397-bfd2-ecf3-11987e13b507.htm" />
+          <HelpTOCNode Title="Open Method (Sql.Statement, SqlConnection, Boolean)" Url="html/16553947-8f3e-63ec-bfa0-72fbc6d527a4.htm" />
+          <HelpTOCNode Title="Open Method (Sql.Statement, SqlConnection, Boolean, SqlTransaction)" Url="html/4abdffc2-6023-e329-6ebc-94d7c6726fbf.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="202d3a35-1734-42be-bf5b-7d48d2d9c6b7" Title="TryCreateConnection Method " Url="html/0f2e9cf1-56f6-f1ca-ba45-0799f4e12ad3.htm">
+          <HelpTOCNode Title="TryCreateConnection Method (SqlConnection)" Url="html/add4652c-261c-3fa7-d8a6-4985800acf0a.htm" />
+          <HelpTOCNode Title="TryCreateConnection Method (Boolean, SqlConnection)" Url="html/779203e1-382e-2cbd-5ea4-6f4f4dc2f40d.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ef2c5851-793f-4089-8019-37c8c14d5fbc" Title="TryExecute Method " Url="html/b1175af7-0cec-c293-213e-923f229de986.htm">
+          <HelpTOCNode Title="TryExecute Method (String, SqlResult)" Url="html/35e63169-9b3d-4c71-02c5-76782b20d6a8.htm" />
+          <HelpTOCNode Title="TryExecute(T) Method (String, SqlResultWithValue(T))" Url="html/03bf1a3c-f393-cf42-e4e5-f98a23bb5126.htm" />
+          <HelpTOCNode Title="TryExecute Method (Sql.Statement, SqlResult)" Url="html/27914ff4-467e-eaf2-c8ec-428ba26e03d2.htm" />
+          <HelpTOCNode Title="TryExecute(T) Method (Sql.Statement, SqlResultWithValue(T))" Url="html/f819c751-0445-26a5-667a-b7088f8096d8.htm" />
+          <HelpTOCNode Title="TryExecute Method (String, CommandType, SqlResult)" Url="html/b835c90a-ca5e-6ff9-0212-ad0320a64db9.htm" />
+          <HelpTOCNode Title="TryExecute(T) Method (String, CommandType, SqlResultWithValue(T))" Url="html/ea833ed5-299d-950a-6caa-67f0971b4911.htm" />
+          <HelpTOCNode Title="TryExecute Method (Sql.Statement, SqlConnection, SqlResult)" Url="html/e24c7562-5afa-ca3b-e00c-9fe9f00c5466.htm" />
+          <HelpTOCNode Title="TryExecute(T) Method (Sql.Statement, SqlConnection, SqlResultWithValue(T))" Url="html/ff99e29f-4313-f079-d9e8-be8df175e906.htm" />
+          <HelpTOCNode Title="TryExecute Method (String, CommandType, SqlResult, SqlParameter[])" Url="html/d88edee5-6615-af43-a5b5-de5989d3c889.htm" />
+          <HelpTOCNode Title="TryExecute(T) Method (String, CommandType, SqlResultWithValue(T), SqlParameter[])" Url="html/a7313ebe-0591-82ac-41c9-ba58cedacdb9.htm" />
+          <HelpTOCNode Title="TryExecute Method (String, CommandType, IEnumerable(SqlParameter), SqlResult)" Url="html/a8dea131-22d7-39fc-fe1c-d45e1cc177c9.htm" />
+          <HelpTOCNode Title="TryExecute(T) Method (String, CommandType, IEnumerable(SqlParameter), SqlResultWithValue(T))" Url="html/166618a5-0165-f5fb-8729-03b01c3932c8.htm" />
+          <HelpTOCNode Title="TryExecute Method (Sql.Statement, SqlConnection, Boolean, SqlResult)" Url="html/b7a49059-d6c7-a187-3de2-13f8c8a70478.htm" />
+          <HelpTOCNode Title="TryExecute(T) Method (Sql.Statement, SqlConnection, Boolean, SqlResultWithValue(T))" Url="html/31a9f83c-4184-5821-fe88-41c97bea3eb0.htm" />
+          <HelpTOCNode Title="TryExecute Method (Sql.Statement, SqlConnection, Boolean, SqlTransaction, SqlResult)" Url="html/e39c7954-2ec8-84d5-2b8f-0669126699ec.htm" />
+          <HelpTOCNode Title="TryExecute(T) Method (Sql.Statement, SqlConnection, Boolean, SqlTransaction, SqlResultWithValue(T))" Url="html/dd55f7c5-a902-ebef-545f-72e97875d3db.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ea1b83a3-bf87-4554-af8e-a43bdfbbd8e2" Title="TryOpen Method " Url="html/50eb65ac-2fd9-52d5-1f8a-325aedfc3535.htm">
+          <HelpTOCNode Title="TryOpen Method (String, SqlResultWithDataSet)" Url="html/d09389af-5710-d2ef-a910-0b82cdece305.htm" />
+          <HelpTOCNode Title="TryOpen Method (Sql.Statement, SqlResultWithDataSet)" Url="html/59afb66c-cb44-53d5-74fe-59346d71b251.htm" />
+          <HelpTOCNode Title="TryOpen Method (String, CommandType, SqlResultWithDataSet)" Url="html/8d737728-7cfb-6ffb-ae8c-10578b728580.htm" />
+          <HelpTOCNode Title="TryOpen Method (Sql.Statement, SqlConnection, SqlResultWithDataSet)" Url="html/bbca66a0-5dcf-6bdf-5937-b066ca7305bb.htm" />
+          <HelpTOCNode Title="TryOpen Method (String, CommandType, SqlResultWithDataSet, SqlParameter[])" Url="html/0c5d8ece-e0af-d562-efd8-e4604b699180.htm" />
+          <HelpTOCNode Title="TryOpen Method (String, CommandType, IEnumerable(SqlParameter), SqlResultWithDataSet)" Url="html/59d4e2d8-bdf8-d6ee-d98d-dde647fcaa3e.htm" />
+          <HelpTOCNode Title="TryOpen Method (Sql.Statement, SqlConnection, Boolean, SqlResultWithDataSet)" Url="html/6926ddf3-d287-6732-7db9-6a9f2cb5fe92.htm" />
+          <HelpTOCNode Title="TryOpen Method (Sql.Statement, SqlConnection, Boolean, SqlTransaction, SqlResultWithDataSet)" Url="html/9b5b0b19-85c3-3146-35cf-e798f6235e4c.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="de086ba4-fbe1-4b76-8c7d-64b37da4bf10" Title="Sql Fields" Url="html/43e29122-2f85-b375-1332-3d2cf9e3dfe6.htm">
+        <HelpTOCNode Title="ConnectionTimeout Field" Url="html/ef43fe38-a083-9f65-c5a5-01745afcd25e.htm" />
+        <HelpTOCNode Title="ExecutionTimeout Field" Url="html/10b4ec69-be25-cd8d-ac04-441447a5cacd.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="3dd0e345-0d55-40e4-a91c-bec793e0c0fb" Title="Sql.Statement Structure" Url="html/5b1035c4-c2f8-e7be-52e9-9863f90b20ef.htm">
+      <HelpTOCNode Id="ff50158a-a981-46d0-947e-ab4e480e6a6f" Title="Statement Properties" Url="html/05426d2d-0e95-66a3-87fc-7a95cb694e3a.htm">
+        <HelpTOCNode Title="Empty Property " Url="html/0915f23c-b157-1eae-3caf-d6f6ec9a4cbc.htm" />
+        <HelpTOCNode Title="Parameters Property " Url="html/37b77c3a-07bf-03c3-be6d-37de33d8bf0e.htm" />
+        <HelpTOCNode Title="Sql Property " Url="html/eecb1675-8649-26c0-7dfb-d34f06058406.htm" />
+        <HelpTOCNode Title="Type Property " Url="html/253d4a92-8d6b-bfce-63d4-d035517d5af2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Statement Methods" Url="html/2cdee007-0239-e18a-aa22-1dd916a344c6.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="44c5969e-c505-47fa-bdf1-bb1f80abcd87" Title="SqlResult Class" Url="html/a0b8c88c-4b64-e8b8-f276-b813f73103d9.htm">
+      <HelpTOCNode Title="SqlResult Constructor " Url="html/aa2d3318-b8df-b97a-2a9c-dea14cbfc5be.htm" />
+      <HelpTOCNode Title="SqlResult Properties" Url="html/281a3ec1-5808-d9c1-0e4b-2721b9008127.htm" />
+      <HelpTOCNode Title="SqlResult Methods" Url="html/c12eb788-9f7f-3722-a2d6-ff8ddbd02e46.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d3e2bea9-9483-4d72-9338-4757415faa71" Title="SqlResultBase Class" Url="html/09a5ab5f-272d-8d7e-1caa-b7399f5743a5.htm">
+      <HelpTOCNode Title="SqlResultBase Constructor " Url="html/c4846284-303d-e1fc-f147-52e9ee600606.htm" />
+      <HelpTOCNode Id="4e2d15f3-6965-4199-823c-f9ee59d0c48a" Title="SqlResultBase Properties" Url="html/92f5d004-561d-b0a0-861c-2eb657f8e602.htm">
+        <HelpTOCNode Title="Exception Property " Url="html/043797d9-b582-c77b-7657-ad6caac3d459.htm" />
+        <HelpTOCNode Title="Statistics Property " Url="html/09c21ae4-c922-f90f-c6ce-416d348175a2.htm" />
+        <HelpTOCNode Title="Success Property " Url="html/df6bd012-6cbc-3a06-0fdf-7ecbbd83bab3.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SqlResultBase Methods" Url="html/5921baca-347c-5c64-68ff-d5c8b7000192.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="783cc357-b11f-4262-9a4e-c44d9268f07c" Title="SqlResultWithDataSet Class" Url="html/a56ca30a-cc9a-55e1-2bff-b621c0435a06.htm">
+      <HelpTOCNode Title="SqlResultWithDataSet Constructor " Url="html/cfdcae83-4826-00ba-f349-b3398bc71a3a.htm" />
+      <HelpTOCNode Id="a5dc44c0-f6ea-4c4a-828c-f09eb3600bd5" Title="SqlResultWithDataSet Properties" Url="html/0139ff35-c1f2-c355-e700-0c8473ea586c.htm">
+        <HelpTOCNode Title="Results Property " Url="html/64df2cee-7646-a4e7-21c4-d0e84ce7bc6a.htm" />
+        <HelpTOCNode Title="Success Property " Url="html/0ce57619-2397-bce8-2f74-cadf8c60c287.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SqlResultWithDataSet Methods" Url="html/f381d94a-a5c3-cf5b-74a2-0b085f67da66.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b1d9dd73-9ac6-4942-bdee-908a13647040" Title="SqlResultWithValue(T) Class" Url="html/cac78f63-424e-5e22-3de6-00eb77aa33d6.htm">
+      <HelpTOCNode Title="SqlResultWithValue(T) Constructor " Url="html/2f6511d4-7d26-68f7-bb34-60254cb46514.htm" />
+      <HelpTOCNode Id="4b66fcc9-c82d-46f8-b34e-9840dd6e42cf" Title="SqlResultWithValue(T) Properties" Url="html/fe43fc1b-6d9f-e21e-9c5f-48678a7e1f63.htm">
+        <HelpTOCNode Title="Value Property " Url="html/10d3924d-bfa7-0d4c-655d-80b970c880b6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SqlResultWithValue(T) Methods" Url="html/7f705c3c-76ec-6216-04e4-5092347974df.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
