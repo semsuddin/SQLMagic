@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SQLMagic")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A fully managed SQL Server class that takes care of handling connections")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Semsudin")]
 [assembly: AssemblyProduct("SQLMagic")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
